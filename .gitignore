@@ -1,0 +1,15 @@
+# Ignore bundler config.
+/.bundle
+
+# Ignore all logfiles and tempfiles.
+/log/*
+!/log/.keep
+/tmp
+/.idea
+/apps/*/.idea
+/.ruby-gemset
+/.ruby-version
+/.env
+/.foreman
+/Procfile.development
+/links.md
