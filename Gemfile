@@ -1,6 +1,7 @@
 # A sample Gemfile
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'thin'
-gem 'sinatra'
-gem 'em-websocket'
+gem "thin"
+gem "sinatra"
+gem "em-websocket"
+gem "ruby-mpd"
