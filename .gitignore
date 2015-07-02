@@ -13,3 +13,4 @@
 /.foreman
 /Procfile.development
 /links.md
+npm-debug.log
